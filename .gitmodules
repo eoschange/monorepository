@@ -1,0 +1,6 @@
+[submodule "packages/eosic"]
+	path = packages/eosic
+	url = https://github.com/eoschange/eosic.git
+[submodule "packages/protocol"]
+	path = packages/protocol
+	url = https://github.com/eoschange/protocol.git
